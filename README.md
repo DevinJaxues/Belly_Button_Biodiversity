@@ -1,7 +1,9 @@
 # Belly_Button_Biodiversity
 ## Devin Monsen
 ### 10/06/2022
-![dashboard](images/Screen Shot 2023-02-25 at 2.57.09 PM.png)
+
+![dashboard](images/dashboard.png)
+
 ---
 **Overview of Project**
 ---
