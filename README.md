@@ -27,5 +27,3 @@ Next step was the top 10 bacteria's found in that given test subject. These are 
 - JavaScript
 - HTML
 - CSS
-
-![page](images/page.png)
