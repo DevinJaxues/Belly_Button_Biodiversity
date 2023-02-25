@@ -4,6 +4,7 @@
 
 ![dashboard](images/dashboard.png)
 
+[Visit the deployed webpage here!](https://devinjaxues.github.io/Belly_Button_Biodiversity/)
 ---
 **Overview of Project**
 ---
